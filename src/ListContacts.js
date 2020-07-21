@@ -33,7 +33,7 @@ class ListContacts extends Component {
 
         return (  
             <div className='list-contacts'>
-                <div className = 'top-list-contacts'>
+                <div className = 'list-contacts-top'>
                     <input
                         className = 'search-contacts'
                         type = 'text'
